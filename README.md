@@ -18,3 +18,13 @@ Aktivitas hari Senin, 13 September 2021
 
 Tugas :
 * Membuat Huruf A
+
+
+
+
+
+
+
+
+
+NB : Rename file javascript menjadi main.js agar bisa dijalankan

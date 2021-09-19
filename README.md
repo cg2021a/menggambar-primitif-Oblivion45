@@ -15,3 +15,6 @@ Aktivitas hari Senin, 13 September 2021
 * Membuat segitiga dengan TRIANGLE_STRIP
 * Membuat segitiga dengan TRIANGLE_FAN
 * Membuat segiempat dengan TRIANGLES
+
+Tugas :
+* Membuat Huruf A
